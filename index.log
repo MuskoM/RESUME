@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.8)  8 JUL 2025 23:01
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.8)  8 JUL 2025 23:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,83 +11,1312 @@ Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count275
-\c@section=\count276
-\c@subsection=\count277
-\c@subsubsection=\count278
-\c@paragraph=\count279
-\c@subparagraph=\count280
-\c@figure=\count281
-\c@table=\count282
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lato/lato.sty
+Package: lato 2019/06/20 Style file for Lato.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/figureversions/figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-06-30 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count280
+\g__pdfannot_backend_int=\count281
+\g__pdfannot_backend_link_int=\count282
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count283
+\l__fontspec_language_int=\count284
+\l__fontspec_strnum_int=\count285
+\l__fontspec_tmp_int=\count286
+\l__fontspec_tmpa_int=\count287
+\l__fontspec_tmpb_int=\count288
+\l__fontspec_tmpc_int=\count289
+\l__fontspec_em_int=\count290
+\l__fontspec_emdef_int=\count291
+\l__fontspec_strong_int=\count292
+\l__fontspec_strongdef_int=\count293
+\l__fontspec_tmpa_dim=\dimen149
+\l__fontspec_tmpb_dim=\dimen150
+\l__fontspec_tmpc_dim=\dimen151
+
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 )
-(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count283
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+Requested font "[Lato-Regular.ttf]/OT" at 11.99997pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Regula
+r.ttf
+Requested font "[Lato-Regular.ttf]/OT" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Regula
+r.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+Requested font "[Lato-Hairline.ttf]/OT:script=latn;language=dflt;" at 12.00003p
+t
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Hairli
+ne.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Hairline scale = 1.
+
+Requested font "[Lato-HairlineItalic.ttf]/OT:script=latn;language=dflt;" at 12.
+00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Hairli
+neItalic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-HairlineItalic scale = 1.
+
+Requested font "[Lato-Thin.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Thin.t
+tf
+
+Package fontspec Info: 
+(fontspec)             Lato-Thin scale = 1.
+
+Requested font "[Lato-ThinItalic.ttf]/OT:script=latn;language=dflt;" at 12.0000
+3pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-ThinIt
+alic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-ThinItalic scale = 1.
+
+Requested font "[Lato-Light.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Light.
+ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Light scale = 1.
+
+Requested font "[Lato-LightItalic.ttf]/OT:script=latn;language=dflt;" at 12.000
+03pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-LightI
+talic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-LightItalic scale = 1.
+
+Requested font "[Lato-Medium.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Medium
+.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Medium scale = 1.
+
+Requested font "[Lato-MediumItalic.ttf]/OT:script=latn;language=dflt;" at 12.00
+003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Medium
+Italic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-MediumItalic scale = 1.
+
+Requested font "[Lato-Semibold.ttf]/OT:script=latn;language=dflt;" at 12.00003p
+t
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Semibo
+ld.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Semibold scale = 1.
+
+Requested font "[Lato-SemiboldItalic.ttf]/OT:script=latn;language=dflt;" at 12.
+00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Semibo
+ldItalic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-SemiboldItalic scale = 1.
+
+Requested font "[Lato-Bold.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Bold.t
+tf
+
+Package fontspec Info: 
+(fontspec)             Lato-Bold scale = 1.
+
+Requested font "[Lato-BoldItalic.ttf]/OT:script=latn;language=dflt;" at 12.0000
+3pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-BoldIt
+alic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-BoldItalic scale = 1.
+
+Requested font "[Lato-Heavy.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Heavy.
+ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Heavy scale = 1.
+
+Requested font "[Lato-HeavyItalic.ttf]/OT:script=latn;language=dflt;" at 12.000
+03pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-HeavyI
+talic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-HeavyItalic scale = 1.
+
+Requested font "[Lato-Black.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Black.
+ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Black scale = 1.
+
+Requested font "[Lato-BlackItalic.ttf]/OT:script=latn;language=dflt;" at 12.000
+03pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-BlackI
+talic.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-BlackItalic scale = 1.
+
+Requested font "[Lato-Regular.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Regula
+r.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+Requested font "[Lato-Italic.ttf]/OT:script=latn;language=dflt;" at 12.00003pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Italic
+.ttf
+
+Package fontspec Info: 
+(fontspec)             Lato-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'lato-TLF' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Extension=.ttf,Ligatures={TeX,Common},Scale=1,FontFace=
+{ul}{n}{*-Hairline},FontFace={ul}{it}{*-HairlineItalic},FontFace={el}{n}{*-Thin
+},FontFace={el}{it}{*-ThinItalic},FontFace={l}{n}{*-Light},FontFace={l}{it}{*-L
+ightItalic},UprightFont={*-Regular},ItalicFont={*-Italic},FontFace={mb}{n}{*-Me
+dium},FontFace={mb}{it}{*-MediumItalic},FontFace={sb}{n}{*-Semibold},FontFace={
+sb}{it}{*-SemiboldItalic},FontFace={b}{n}{*-Bold},FontFace={b}{it}{*-BoldItalic
+},BoldFont={*-Bold},BoldItalicFont={*-BoldItalic},FontFace={eb}{n}{*-Heavy},Fon
+tFace={eb}{it}{*-HeavyItalic},FontFace={ub}{n}{*-Black},FontFace={ub}{it}{*-Bla
+ckItalic},Numbers={Monospaced,Lining},NFSSFamily=lato-TLF].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (ul/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Hairline.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ul/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HairlineItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Thin.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-ThinItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Light.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-LightItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Medium.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-MediumItalic.ttf]/OT:script=latn;language
+=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Semibold.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-SemiboldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Bold.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Heavy.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HeavyItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Black.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BlackItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Regular.ttf]/OT:script=latn;language=dflt
+;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Italic.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+lnum;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Hairline scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HairlineItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-ThinItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-LightItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-MediumItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Semibold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-SemiboldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Heavy scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HeavyItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BlackItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'lato-LF' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Extension=.ttf,Ligatures={TeX,Common},Scale=1,FontFace=
+{ul}{n}{*-Hairline},FontFace={ul}{it}{*-HairlineItalic},FontFace={el}{n}{*-Thin
+},FontFace={el}{it}{*-ThinItalic},FontFace={l}{n}{*-Light},FontFace={l}{it}{*-L
+ightItalic},UprightFont={*-Regular},ItalicFont={*-Italic},FontFace={mb}{n}{*-Me
+dium},FontFace={mb}{it}{*-MediumItalic},FontFace={sb}{n}{*-Semibold},FontFace={
+sb}{it}{*-SemiboldItalic},FontFace={b}{n}{*-Bold},FontFace={b}{it}{*-BoldItalic
+},BoldFont={*-Bold},BoldItalicFont={*-BoldItalic},FontFace={eb}{n}{*-Heavy},Fon
+tFace={eb}{it}{*-HeavyItalic},FontFace={ub}{n}{*-Black},FontFace={ub}{it}{*-Bla
+ckItalic},Numbers={Proportional,Lining},NFSSFamily=lato-LF].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (ul/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Hairline.ttf]/OT:script=latn;language=dfl
+t;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ul/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HairlineItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Thin.ttf]/OT:script=latn;language=dflt;+l
+iga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-ThinItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Light.ttf]/OT:script=latn;language=dflt;+
+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-LightItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Medium.ttf]/OT:script=latn;language=dflt;
++liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-MediumItalic.ttf]/OT:script=latn;language
+=dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Semibold.ttf]/OT:script=latn;language=dfl
+t;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-SemiboldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Bold.ttf]/OT:script=latn;language=dflt;+l
+iga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Heavy.ttf]/OT:script=latn;language=dflt;+
+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HeavyItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Black.ttf]/OT:script=latn;language=dflt;+
+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BlackItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Regular.ttf]/OT:script=latn;language=dflt
+;+liga;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Italic.ttf]/OT:script=latn;language=dflt;
++liga;+pnum;+lnum;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Hairline scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HairlineItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-ThinItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-LightItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-MediumItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Semibold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-SemiboldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Heavy scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HeavyItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BlackItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'lato-TOsF' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Extension=.ttf,Ligatures={TeX,Common},Scale=1,FontFace=
+{ul}{n}{*-Hairline},FontFace={ul}{it}{*-HairlineItalic},FontFace={el}{n}{*-Thin
+},FontFace={el}{it}{*-ThinItalic},FontFace={l}{n}{*-Light},FontFace={l}{it}{*-L
+ightItalic},UprightFont={*-Regular},ItalicFont={*-Italic},FontFace={mb}{n}{*-Me
+dium},FontFace={mb}{it}{*-MediumItalic},FontFace={sb}{n}{*-Semibold},FontFace={
+sb}{it}{*-SemiboldItalic},FontFace={b}{n}{*-Bold},FontFace={b}{it}{*-BoldItalic
+},BoldFont={*-Bold},BoldItalicFont={*-BoldItalic},FontFace={eb}{n}{*-Heavy},Fon
+tFace={eb}{it}{*-HeavyItalic},FontFace={ub}{n}{*-Black},FontFace={ub}{it}{*-Bla
+ckItalic},Numbers={Monospaced,OldStyle},NFSSFamily=lato-TOsF].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (ul/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Hairline.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (ul/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HairlineItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (el/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Thin.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (el/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-ThinItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (l/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Light.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (l/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-LightItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (mb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Medium.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (mb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-MediumItalic.ttf]/OT:script=latn;language
+=dflt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (sb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Semibold.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (sb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-SemiboldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Bold.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (eb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Heavy.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (eb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HeavyItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (ub/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Black.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - (ub/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BlackItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Regular.ttf]/OT:script=latn;language=dflt
+;+liga;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Italic.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+onum;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Hairline scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HairlineItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-ThinItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-LightItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-MediumItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Semibold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-SemiboldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Heavy scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HeavyItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BlackItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'lato-OsF' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Extension=.ttf,Ligatures={TeX,Common},Scale=1,FontFace=
+{ul}{n}{*-Hairline},FontFace={ul}{it}{*-HairlineItalic},FontFace={el}{n}{*-Thin
+},FontFace={el}{it}{*-ThinItalic},FontFace={l}{n}{*-Light},FontFace={l}{it}{*-L
+ightItalic},UprightFont={*-Regular},ItalicFont={*-Italic},FontFace={mb}{n}{*-Me
+dium},FontFace={mb}{it}{*-MediumItalic},FontFace={sb}{n}{*-Semibold},FontFace={
+sb}{it}{*-SemiboldItalic},FontFace={b}{n}{*-Bold},FontFace={b}{it}{*-BoldItalic
+},BoldFont={*-Bold},BoldItalicFont={*-BoldItalic},FontFace={eb}{n}{*-Heavy},Fon
+tFace={eb}{it}{*-HeavyItalic},FontFace={ub}{n}{*-Black},FontFace={ub}{it}{*-Bla
+ckItalic},Numbers={Proportional,OldStyle},NFSSFamily=lato-OsF].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (ul/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Hairline.ttf]/OT:script=latn;language=dfl
+t;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (ul/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HairlineItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (el/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Thin.ttf]/OT:script=latn;language=dflt;+l
+iga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (el/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-ThinItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (l/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Light.ttf]/OT:script=latn;language=dflt;+
+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (l/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-LightItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (mb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Medium.ttf]/OT:script=latn;language=dflt;
++liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (mb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-MediumItalic.ttf]/OT:script=latn;language
+=dflt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (sb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Semibold.ttf]/OT:script=latn;language=dfl
+t;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (sb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-SemiboldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Bold.ttf]/OT:script=latn;language=dflt;+l
+iga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (eb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Heavy.ttf]/OT:script=latn;language=dflt;+
+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (eb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HeavyItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (ub/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Black.ttf]/OT:script=latn;language=dflt;+
+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - (ub/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BlackItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Regular.ttf]/OT:script=latn;language=dflt
+;+liga;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Italic.ttf]/OT:script=latn;language=dflt;
++liga;+pnum;+onum;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Hairline scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HairlineItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-ThinItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-LightItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-MediumItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Semibold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-SemiboldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Heavy scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HeavyItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BlackItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'fla' created for font 'Lato' with options
+(fontspec)             [Extension=.ttf,Ligatures={TeX,Common},Scale=1,FontFace=
+{ul}{n}{*-Hairline},FontFace={ul}{it}{*-HairlineItalic},FontFace={el}{n}{*-Thin
+},FontFace={el}{it}{*-ThinItalic},FontFace={l}{n}{*-Light},FontFace={l}{it}{*-L
+ightItalic},UprightFont={*-Regular},ItalicFont={*-Italic},FontFace={mb}{n}{*-Me
+dium},FontFace={mb}{it}{*-MediumItalic},FontFace={sb}{n}{*-Semibold},FontFace={
+sb}{it}{*-SemiboldItalic},FontFace={b}{n}{*-Bold},FontFace={b}{it}{*-BoldItalic
+},BoldFont={*-Bold},BoldItalicFont={*-BoldItalic},FontFace={eb}{n}{*-Heavy},Fon
+tFace={eb}{it}{*-HeavyItalic},FontFace={ub}{n}{*-Black},FontFace={ub}{it}{*-Bla
+ckItalic},Numbers={Monospaced,Lining},NFSSFamily=fla].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (ul/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Hairline.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ul/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HairlineItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Thin.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-ThinItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Light.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-LightItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Medium.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-MediumItalic.ttf]/OT:script=latn;language
+=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Semibold.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-SemiboldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Bold.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Heavy.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HeavyItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Black.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BlackItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Regular.ttf]/OT:script=latn;language=dflt
+;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Italic.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+lnum;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Hairline scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HairlineItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Thin scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-ThinItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Light scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-LightItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Medium scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-MediumItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Semibold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-SemiboldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Bold scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BoldItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Heavy scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-HeavyItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Black scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-BlackItalic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Regular scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Italic scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Lato(0)' created for font 'Lato' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Extension=.ttf,Ligatures={TeX,Common},Sca
+le=1,FontFace={ul}{n}{*-Hairline},FontFace={ul}{it}{*-HairlineItalic},FontFace=
+{el}{n}{*-Thin},FontFace={el}{it}{*-ThinItalic},FontFace={l}{n}{*-Light},FontFa
+ce={l}{it}{*-LightItalic},UprightFont={*-Regular},ItalicFont={*-Italic},FontFac
+e={mb}{n}{*-Medium},FontFace={mb}{it}{*-MediumItalic},FontFace={sb}{n}{*-Semibo
+ld},FontFace={sb}{it}{*-SemiboldItalic},FontFace={b}{n}{*-Bold},FontFace={b}{it
+}{*-BoldItalic},BoldFont={*-Bold},BoldItalicFont={*-BoldItalic},FontFace={eb}{n
+}{*-Heavy},FontFace={eb}{it}{*-HeavyItalic},FontFace={ub}{n}{*-Black},FontFace=
+{ub}{it}{*-BlackItalic},Numbers={Monospaced,Lining}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (ul/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Hairline.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ul/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HairlineItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Thin.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (el/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-ThinItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Light.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (l/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-LightItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Medium.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (mb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-MediumItalic.ttf]/OT:script=latn;language
+=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Semibold.ttf]/OT:script=latn;language=dfl
+t;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (sb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-SemiboldItalic.ttf]/OT:script=latn;langua
+ge=dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Bold.ttf]/OT:script=latn;language=dflt;+l
+iga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BoldItalic.ttf]/OT:script=latn;language=d
+flt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Heavy.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (eb/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-HeavyItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Black.ttf]/OT:script=latn;language=dflt;+
+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - (ub/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-BlackItalic.ttf]/OT:script=latn;language=
+dflt;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Regular.ttf]/OT:script=latn;language=dflt
+;+liga;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Lato-Italic.ttf]/OT:script=latn;language=dflt;
++liga;+tnum;+lnum;mapping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 156.
+Requested font "[Lato-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+ln
+um;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Regula
+r.ttf
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks19
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count298
+\l__lipsum_a_int=\count299
+\l__lipsum_b_int=\count300
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
 (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+\c@mv@tabular=\count301
+\c@mv@boldtabular=\count302
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 9.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 9.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 9.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 9.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 9.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 9.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 9.
+LaTeX Font Info:    Redeclaring math accent \check on input line 9.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 9.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 9.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 9.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 9.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 9.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Lato(0)/m/n on input line 9.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Lato(0)/m/n on input line 9.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `tabular' on input line 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `tabular'
+(Font)                  OT1/cmr/m/n --> TU/Lato(0)/m/n on input line 9.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `boldtabular' on input line
+ 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldtabular
+'
+(Font)                  OT1/cmr/bx/n --> TU/Lato(0)/m/n on input line 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Lato(0)/m/n --> TU/Lato(0)/m/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Lato(0)/m/it on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Lato(0)/b/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Lato(0)/m/n --> TU/Lato(0)/b/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Lato(0)/b/it on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 9.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 10.
+Requested font "[Lato-Italic.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+lnu
+m;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Italic
+.ttf
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/it' will be
+(Font)              scaled to size 24.88pt on input line 10.
+Requested font "[Lato-Italic.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+lnu
+m;mapping=tex-text;" at 24.88pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Italic
+.ttf
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 16.
+Requested font "[Lato-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+ln
+um;mapping=tex-text;" at 17.28pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Regula
+r.ttf
+LaTeX Font Info:    Font shape `TU/Lato(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 16.
+Requested font "[Lato-Bold.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+lnum;
+mapping=tex-text;" at 17.28pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Bold.t
+tf
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 20.
+Requested font "[Lato-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+ln
+um;mapping=tex-text;" at 14.4pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Regula
+r.ttf
+LaTeX Font Info:    Font shape `TU/Lato(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 20.
+Requested font "[Lato-Bold.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+lnum;
+mapping=tex-text;" at 14.4pt
+ -> /usr/local/texlive/2025/texmf-dist/fonts/truetype/typoland/lato/Lato-Bold.t
+tf
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
+LaTeX Font Warning: Font shape `TU/Lato(0)/m/sc' undefined
+(Font)              using `TU/Lato(0)/m/n' instead on input line 21.
 
 
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local
-/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+]
 
-[2] (./index.aux)
+[2]
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 31.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Overfull \hbox (5.59814pt too wide) in paragraph at lines 34--35
+\TU/Lato(0)/m/sc/12 Annealing (quantum-inspired computing) technology with the 
+Microsoft Azure plat-
+ []
+
+
+
+[3]
+Overfull \hbox (4.94856pt too wide) in paragraph at lines 36--37
+[]\TU/Lato(0)/m/sc/12 Analyzed, debugged, and resolved issues within a large-sc
+ale, asynchronous Python
+ []
+
+
+
+[4]
+
+[5]
+
+[6] (./index.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-06-30>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 668 strings out of 467822
- 10051 string characters out of 5432410
- 432005 words of memory out of 5000000
- 29356 multiletter control sequences out of 15000+600000
- 632671 words of font info for 49 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 35i,5n,38p,249b,193s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on index.pdf (2 pages, 80346 bytes).
-PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5435 strings out of 468463
+ 149274 string characters out of 5446065
+ 686899 words of memory out of 5000000
+ 33812 multiletter control sequences out of 15000+600000
+ 627057 words of font info for 69 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 88i,5n,110p,517b,288s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+Output written on index.pdf (6 pages).
